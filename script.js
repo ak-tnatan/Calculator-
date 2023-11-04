@@ -1,3 +1,4 @@
+console.log("Calculator")
 function getHistory(){
 	return document.getElementById("history-value").innerText;
 }
